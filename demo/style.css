@@ -1,0 +1,38 @@
+.container1 {
+  display: flex;
+  width: 731px;
+  height: 440px;
+ /*box-sizing: border-box;*/
+  margin: 0;
+  border: 5px solid rgb(17, 78, 17);
+  padding: 10px;
+  background-color: rgb(162, 233, 162);
+}
+.container2 {
+  display: flex;
+  margin: 20px 20px 600px 20px;
+  border: 5px solid blue;
+  padding: 40px;
+  background-color: rgb(105, 138, 199);
+}
+.container3{
+  margin: 20px;
+  border: 5px solid salmon;
+  padding: 40px;
+  background-color: peachpuff;
+}
+
+.container2 .container4{
+  display: flex;
+  margin: 20px;
+  border: 5px solid salmon;
+  padding: 40px;
+  background-color: peachpuff;
+}
+
+.container2 .container41{
+  margin: 20px;
+  border: 5px solid salmon;
+  padding: 40px;
+  background-color: peachpuff;
+}
